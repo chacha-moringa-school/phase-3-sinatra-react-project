@@ -102,5 +102,23 @@ This will watch for changes you make inside the application.
     railway run bundle exec rake db:seed
   ```
 
+  
+#### Help
+Incase of any problems reach out through the contact links below.
+
+## Authors
+Liz D. Mukami Wambeti
+Emmanuel Chacha
+Daniel Njuguna
+Paul Omondi
+Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update tests as appropriate.
+
+## License
+Copyright (c) 2023 All rights reserved
+
+All rights reserved. This project is licensed under the terms of the MIT license.
 
 
