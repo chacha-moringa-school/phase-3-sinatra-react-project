@@ -107,9 +107,9 @@ This will watch for changes you make inside the application.
 Incase of any problems reach out through the contact links below.
 
 ## Authors
-Emmanuel Chacha
-Paul Omondi
-Liz D. Wambeti
+Emmanuel Chacha,
+Paul Omondi,
+Liz D. Wambeti, 
 Daniel NJuguna
   
 ## Contributing
