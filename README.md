@@ -107,11 +107,12 @@ This will watch for changes you make inside the application.
 Incase of any problems reach out through the contact links below.
 
 ## Authors
-Liz D. Mukami Wambeti
 Emmanuel Chacha
-Daniel Njuguna
 Paul Omondi
-Contributing
+Liz D. Wambeti
+Daniel NJuguna
+  
+## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
